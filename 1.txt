@@ -5,6 +5,7 @@ It becomes small as one song, as one kiss of the eternal.
 
 
 各取所需
+<<<<<<< HEAD
 各取所需
 
 各取所需
@@ -13,3 +14,6 @@ It becomes small as one song, as one kiss of the eternal.
 
 各取所需
 各取所需
+=======
+
+>>>>>>> 5fd6dd1a2b046dc771579167825c199a29d7e316
